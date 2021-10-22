@@ -1,0 +1,19 @@
+@font-face {
+    font-family: Caligrafía;
+    src: url(../Fuentes/Freehand-Regular.ttf);
+}
+body {margin 0
+    padding: 0;
+ background-color:black;background-size: 40%;}
+body {background-image: url("../IMG/151.jpg");
+background-size: 50%;opacity: 0.4 ;
+font-family: caligrafía;
+font-size: 2em;}
+#container {background-color: rgb(255, 0, 0);text-align: center;
+    width: 90vh;margin: auto;
+    border-radius: 80px;
+    padding: 20px;
+    margin:5vh auto}
+#poema {width: 200px; margin:auto}
+#poema {color: blue;}
+#poema h2

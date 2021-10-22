@@ -1,0 +1,12 @@
+@font-face {
+    font-family: piratón;
+    src: url("../Estilos/OpenSansCondensed-LightItalic.ttf");}
+body {font-family: piratón;
+    font-size:1.5em;
+margin: 0;padding: 0;}
+
+#container {background-image: url("../IMG/111.jpg");
+width: 80%;margin: auto;background-size:cover; background-position: right;padding: 40px;border-radius: 10px;margin: 20px auto; box-shadow: 5vw 5vw 100px gold,-5vw 5vw 100px gold, 5vw -5vw 100px gold, -5vw -5vw 100px gold;}
+/* Bc-position, se fija la foto (recirta por el otro extremo) */
+/* Cover, estira la imagen de fondo */ 
+#poema {background-color: rgba(255, 255, 255, 0.349);width: 250px;padding: 20px;border-radius: 20px;}
